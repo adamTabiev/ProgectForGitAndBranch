@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Text("первый комит в главной ветке")
+            Text("первый комит в новой ветке")
         }
         .padding()
     }
